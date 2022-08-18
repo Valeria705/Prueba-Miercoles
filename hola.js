@@ -1,1 +1,2 @@
-consolole.log("hola");
+console.log("hola");
+console.log("me llamo frailejon");
