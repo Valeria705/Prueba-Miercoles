@@ -1,1 +1,0 @@
-console.log("Si el estudiante no guarda en git, no gana el parcial");
